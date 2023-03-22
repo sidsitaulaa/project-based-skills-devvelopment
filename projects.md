@@ -11,3 +11,4 @@ https://www.codementor.io/projects/web/rss-feed-reader-website-atx32j280x
 https://www.codementor.io/projects/web/favorite-stocks-watcher-b0wexig802
 https://www.codementor.io/projects/web/plagiarism-checker-website-atx32nf0oa
 
+# Python ML
